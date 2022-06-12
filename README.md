@@ -1,0 +1,2 @@
+# pyqt-idea
+many ideas
